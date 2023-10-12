@@ -16,3 +16,5 @@ I learn a lot of stuff related to data science skills. This bootcamp
 - Python programming
 - Essential Python for Data Analyst
 - Dasboard
+
+  You can find me on Chanel https://www.youtube.com/@letsruntogetherhamtaro8873
